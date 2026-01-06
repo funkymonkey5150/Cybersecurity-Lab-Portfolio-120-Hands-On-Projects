@@ -1,38 +1,130 @@
+<p align="center">
+<pre>
+
+██████╗ ██╗   ██╗██████╗ ███████╗██████╗      ██╗      █████╗ ██████╗ 
+██╔══██╗██║   ██║██╔══██╗██╔════╝██╔══██╗     ██║     ██╔══██╗██╔══██╗
+██████╔╝██║   ██║██████╔╝█████╗  ██████╔╝     ██║     ███████║██████╔╝
+██╔══██╗██║   ██║██╔══██╗██╔══╝  ██╔══██╗     ██║     ██╔══██║██╔══██╗
+██████╔╝╚██████╔╝██████╔╝███████╗██║  ██║     ███████╗██║  ██║██║  ██║
+╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+          CYBERSECURITY LAB PORTFOLIO — 120+ PROJECTS
+
+</pre>
+</p>
+
+<p align="center">
+  <img src="assets/cyber-lab-banner.png" alt="Cybersecurity Lab Portfolio Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success" />
+  <img src="https://img.shields.io/badge/Labs-120%2B-blue" />
+  <img src="https://img.shields.io/badge/Focus-Blue%20Team%20%7C%20Red%20Team%20%7C%20DFIR-orange" />
+  <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen" />
+  <img src="https://img.shields.io/badge/License-Open%20Educational-informational" />
+</p>
+
 # 🔥 Cybersecurity Lab Portfolio — 120+ Hands-On Projects
-This repository documents my cybersecurity journey — 
-from Linux fundamentals to malware analysis, cloud incident response, and red-team operations.
+**Repository:** Cyber-Lab-Portfolio-120
 
-## 🧠 LAB CATEGORIES
-  
-| Level | Range | Focus |
-|-------|------|------|
-| 🟢 Beginner | 1–30 | Linux, OSINT, networking basics |
-| 🟡 Intermediate | 31–70 | SOC workflows, SIEM, exploitation |
-| 🔴 Advanced | 71–100 | C2, malware, privilege escalation |
-| 🔵 Guru / Research | 101–120 | AI, cloud IR, adversary emulation |
+This repository documents my cybersecurity journey through 120+ real-world, hands-on labs including Linux fundamentals, SOC operations, DFIR, malware analysis, cloud incident response, threat hunting, red-team operations, and advanced research work.
 
-## 📌 FORMAT PER LAB  
+---
 
-Each folder includes:
+## 📌 Featured / Pinned Repositories
+These repos complement and expand this portfolio:
 
-• Objective  
-• Tools Used  
-• Methodology  
-• Findings  
-• Attack vs Defense notes  
-• Skills Gained  
-• GitHub code/screenshots  
+- 🔬 **malware-analysis-series**
+- ☁️ **cloud-incident-response-labs**
+- 🧬 **forensics-investigation-examples**
 
+---
 
-## 📣 COMMUNITY PROJECT HUB  
+## 🧠 Lab Categories
+| Level | Range  | Focus |
+|-------|--------|--------|
+| 🟢 **Beginner**     | 1–30   | Linux, networking, OSINT, fundamentals |
+| 🟡 **Intermediate** | 31–70  | SOC workflows, SIEM, detection engineering, exploitation |
+| 🔴 **Advanced**     | 71–100 | malware, privilege escalation, C2 frameworks |
+| 🔵 **Guru / Research** | 101–120 | AI security, adversary emulation, cloud IR R&D |
 
-Submitting labs soon — anyone can submit their case studies & get featured.  
+Each lab follows a structured methodology and includes documentation, evidence, and findings.
 
-**Open collaboration welcome.**
+---
 
-📩 Contact: sales@lamedianation.com,
-    lamedianation@outlook.com  
-🔗 LinkedIn: https://www.linkedin.com/in/goaiautomation
-🐙 GitHub: your-link  
+## 🧪 Sample Case Study
+### 🧠 Project #47 — Malware Traffic Analysis
+**Goal:** Identify malicious communication patterns, extract IOCs, and analyze infection behavior.  
+**Tools:** Wireshark, Zeek, Python  
+**Focus Area:** DFIR, Threat Hunting
 
+**Highlights**
+- Analyzed PCAP traffic to trace attacker C2 communication  
+- Identified beaconing intervals and payload exfiltration  
+- Extracted Indicators of Compromise (domains, IPs, hashes)  
+- Mapped findings to **MITRE ATT&CK** techniques  
 
+**Outcome**  
+Improved detection strategy and deepened DFIR methodology for malware-based intrusions.
+
+---
+
+## 🔬 Current Research Focus
+I am currently researching and building labs around:
+
+- AI-assisted security automation  
+- Advanced cloud incident response (Azure / AWS)  
+- Memory forensics & malware evolution  
+- Red-team adversary simulation environments  
+- Threat intelligence visualization & automation  
+
+This repo evolves weekly.
+
+---
+
+## 🗺 Roadmap
+See: [ROADMAP.md](ROADMAP.md)
+
+---
+
+## 🧾 Changelog
+See: [CHANGELOG.md](CHANGELOG.md)
+
+---
+
+## 🤝 Collaboration & Projects
+I’m open to:
+- Cybersecurity research collaboration  
+- Blue team / DFIR projects  
+- Red team simulations  
+- Security engineering learning partnerships  
+- Professional mentorship, contracts, or consulting  
+
+If you’d like to work together — reach out!
+
+---
+
+## 📣 Questions or Comments?
+We’d love to hear from you. Reach out anytime!
+
+### Hacktivate Network Solutions & AI Automation Central
+
+**📧 Email**
+- Sales@lamedianation.com  
+- Hacktivate5150@gmail.com  
+- Lamedianation@outlook.com  
+
+**📱 Phone**
+- 562-285-8703  
+
+**📷 Instagram**
+- https://www.instagram.com/lamedianation  
+- https://www.instagram.com/dappsterlabs  
+- https://www.instagram.com/hacktivatelabs  
+
+**🎵 TikTok**
+- @hacktivatelabs  
+
+---
+
+🛡 This portfolio is for ethical cybersecurity learning and professional growth only.
