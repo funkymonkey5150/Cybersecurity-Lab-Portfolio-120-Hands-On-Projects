@@ -14,6 +14,7 @@ from Linux fundamentals to malware analysis, cloud incident response, and red-te
 ## 📌 FORMAT PER LAB  
 
 Each folder includes:
+
 • Objective  
 • Tools Used  
 • Methodology  
@@ -21,6 +22,7 @@ Each folder includes:
 • Attack vs Defense notes  
 • Skills Gained  
 • GitHub code/screenshots  
+
 
 ## 📣 COMMUNITY PROJECT HUB  
 
