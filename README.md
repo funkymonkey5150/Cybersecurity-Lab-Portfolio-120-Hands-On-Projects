@@ -1,35 +1,7 @@
-<p align="center">
-<pre>
-
-██████╗ ██╗   ██╗██████╗ ███████╗██████╗      ██╗      █████╗ ██████╗ 
-██╔══██╗██║   ██║██╔══██╗██╔════╝██╔══██╗     ██║     ██╔══██╗██╔══██╗
-██████╔╝██║   ██║██████╔╝█████╗  ██████╔╝     ██║     ███████║██████╔╝
-██╔══██╗██║   ██║██╔══██╗██╔══╝  ██╔══██╗     ██║     ██╔══██║██╔══██╗
-██████╔╝╚██████╔╝██████╔╝███████╗██║  ██║     ███████╗██║  ██║██║  ██║
-╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
-          CYBERSECURITY LAB PORTFOLIO — 120+ PROJECTS
-
-</pre>
-</p>
-
-<p align="center">
-  <img src="assets/cyber-lab-banner.png" alt="Cybersecurity Lab Portfolio Banner" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-success" />
-  <img src="https://img.shields.io/badge/Labs-120%2B-blue" />
-  <img src="https://img.shields.io/badge/Focus-Blue%20Team%20%7C%20Red%20Team%20%7C%20DFIR-orange" />
-  <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen" />
-  <img src="https://img.shields.io/badge/License-Open%20Educational-informational" />
-</p>
-
 # 🔥 Cybersecurity Lab Portfolio — 120+ Hands-On Projects
 **Repository:** Cyber-Lab-Portfolio-120
 
 This repository documents my cybersecurity journey through 120+ real-world, hands-on labs including Linux fundamentals, SOC operations, DFIR, malware analysis, cloud incident response, threat hunting, red-team operations, and advanced research work.
-
----
 
 ## 📌 Featured / Pinned Repositories
 These repos complement and expand this portfolio:
@@ -57,6 +29,8 @@ Each lab follows a structured methodology and includes documentation, evidence, 
 **Goal:** Identify malicious communication patterns, extract IOCs, and analyze infection behavior.  
 **Tools:** Wireshark, Zeek, Python  
 **Focus Area:** DFIR, Threat Hunting
+
+---
 
 **Highlights**
 - Analyzed PCAP traffic to trace attacker C2 communication  
@@ -107,24 +81,34 @@ If you’d like to work together — reach out!
 ## 📣 Questions or Comments?
 We’d love to hear from you. Reach out anytime!
 
-### Hacktivate Network Solutions & AI Automation Central
+#### Hacktivate Network Solutions & AI Automation Central
 
-**📧 Email**
+## **📧 Email**
 - Sales@lamedianation.com  
 - Hacktivate5150@gmail.com  
 - Lamedianation@outlook.com  
 
-**📱 Phone**
-- 562-285-8703  
-
-**📷 Instagram**
-- https://www.instagram.com/lamedianation  
-- https://www.instagram.com/dappsterlabs  
-- https://www.instagram.com/hacktivatelabs  
-
-**🎵 TikTok**
-- @hacktivatelabs  
-
 ---
 
-🛡 This portfolio is for ethical cybersecurity learning and professional growth only.
+## **📱 Phone**
+## 562-285-8703
+
+- ---
+
+## **📷 Instagram**
+- https://www.instagram.com/lamedianation  
+- https://www.instagram.com/dappsterlabs  
+- https://www.instagram.com/hacktivatelabs
+
+- ---
+
+## **🎵 TikTok**
+# - @hacktivatelabs  
+
+---------------
+
+### 🛡 This portfolio is for ethical cybersecurity learning and professional growth only.
+
+
+
+------
